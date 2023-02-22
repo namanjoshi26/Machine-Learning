@@ -1,5 +1,10 @@
 # <font color='red'>SGD Algorithm to predict movie ratings</font>
 
+Packages used are 
+SKlearn
+Numpy
+Matlplotlib
+
 
 
 
