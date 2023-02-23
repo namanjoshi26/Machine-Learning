@@ -5,7 +5,7 @@
 
 This repository holds the below projects. Currently they're binned in five different categories.
 
-1. [EDA (Exploratory data Analysis)](https://github.com/sarahfuchi/Data-Science/blob/main/EDA%20(Exploratory%20data%20Analysis)/README.md)
+1. [Recommendation Systems](https://github.com/namanjoshi26/Machine-Learning/tree/main/Recommendation%20Systems/README.md)
 2. [Prediction (Regression)](https://github.com/sarahfuchi/Data-Science/blob/main/Prediction%20(Regression)/README.md)
 3. [Prediction (Classification)](https://github.com/sarahfuchi/Data-Science/blob/main/Prediction%20(Classification)/README.md)
 4. [Cluster analysis (unclassified data)](https://github.com/sarahfuchi/Data-Science/blob/main/Cluster%20analysis%20(unclassified%20data)/README.md)
