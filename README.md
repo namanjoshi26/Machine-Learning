@@ -9,6 +9,6 @@ This repository holds the below projects. Currently they're binned in five diffe
 2. [Exploratory Data Analysis(EDA)](https://github.com/namanjoshi26/Machine-Learning/blob/main/Exploratory%20Data%20Analysis(EDA)/README.md)
 3. [Prediction (Classification)](https://github.com/sarahfuchi/Data-Science/blob/main/Prediction%20(Classification)/README.md)
 4. [Cluster analysis (Network)](https://github.com/namanjoshi26/Machine-Learning/blob/main/Clustering%20Network%20graph/README.md)
-5. [Advanced data science (NLP, computer vision, deep neural nets)](https://github.com/sarahfuchi/Data-Science/blob/main/Advanced%20data%20science%20(NLP%2C%20computer%20vision%2C%20deep%20neural%20nets)/README.md)
+5. [Performance metrics without sklearn](https://github.com/sarahfuchi/Data-Science/blob/main/Advanced%20data%20science%20(NLP%2C%20computer%20vision%2C%20deep%20neural%20nets)/README.md)
 
 Each project has more detailed documentation that explains the summary and key takeaways of the project.
